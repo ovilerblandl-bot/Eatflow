@@ -1,2 +1,2 @@
 # Eatflow
-Eatflow planer jedes Mila schlau
+Eatflow plane jedes Meal schlau
